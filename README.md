@@ -5,7 +5,7 @@
 
 ## Principais tecnologias
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjkl1&theme=dracula&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjkl1&theme=dark&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusjkl1&show_icons=true&theme=dark)
 
