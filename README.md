@@ -16,7 +16,7 @@ JavaScript (ES6);
 
 React (Hooks and Context API, and Redux including Thunk middleware for API requisition);
 
-Node.js (express andpm2);
+Node.js (express and pm2);
 
 MongoDB and SQL;
 
