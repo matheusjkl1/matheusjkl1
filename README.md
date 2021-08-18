@@ -26,6 +26,7 @@ Tests (with NodeJs Assert, RTL, Jest...);
 
 Git & GitHub.
 
+:page_with_curl: I’m currently learning Typescript
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjkl1&theme=dark&layout=compact)
 
