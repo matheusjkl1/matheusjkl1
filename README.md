@@ -34,12 +34,12 @@ Git & GitHub.
 
 <p align="left">
   <a href="https://github.com/matheusjkl1/github-readme-stats">
-    <img align="left" height="180px" width="47%" src="https://github-readme-stats.vercel.app/api?username=matheusjkl1&show_icons=true&theme=dark" />
+    <img align="left" height="180px" width="45%" src="https://github-readme-stats.vercel.app/api?username=matheusjkl1&show_icons=true&theme=dark" />
   </a>
 </p>
 <p align="right">
   <a href="https://github.com/matheusjkl1/convoychat">
-    <img align="right" height="180px" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjkl1&theme=dark&layout=compact" />
+    <img align="right" height="180px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjkl1&theme=dark&layout=compact" />
   </a>
 </p>
  
