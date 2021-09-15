@@ -37,11 +37,14 @@ Git & GitHub.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusjkl1&show_icons=true&theme=dark)
 
 <p align="left">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusjkl1&show_icons=true&theme=dark)
+  <a href="https://github.com/W8jonas/github-readme-stats">
+    <img align="left" height="180px" width="47%" src="https://github-readme-stats.vercel.app/api?username=W8jonas&layout=compact&show_icons=true&theme=solarized-dark" />
   </a>
 </p>
 <p align="right">
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjkl1&theme=dark&layout=compact)
+  <a href="https://github.com/W8jonas/convoychat">
+    <img align="right" height="180px" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W8jonas&layout=compact&theme=solarized-dark&hide=HTML,Jupyter Notebook, Tex" />
+  </a>
 </p>
  
 
