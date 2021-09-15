@@ -32,10 +32,6 @@ Git & GitHub.
 
 :page_with_curl: I’m currently learning Typescript
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjkl1&theme=dark&layout=compact)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusjkl1&show_icons=true&theme=dark)
-
 <p align="left">
   <a href="https://github.com/matheusjkl1/github-readme-stats">
     <img align="left" height="180px" width="47%" src="https://github-readme-stats.vercel.app/api?username=matheusjkl1&show_icons=true&theme=dark" />
