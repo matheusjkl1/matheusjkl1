@@ -36,4 +36,12 @@ Git & GitHub.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusjkl1&show_icons=true&theme=dark)
 
+<p align="left">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusjkl1&show_icons=true&theme=dark)
+  </a>
+</p>
+<p align="right">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjkl1&theme=dark&layout=compact)
+</p>
+ 
 
