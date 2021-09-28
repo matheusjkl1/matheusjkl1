@@ -4,8 +4,8 @@ Gosto muito de Node.js e MongoDB.
 Caso goste também, entre em contato :arrow_down:
 
 [Curriculo](https://gitconnected.com/matheusjkl1)
-[Linkedin](https://www.linkedin.com/in/matheusmendes16/)
-<!-- [Protfolio](https://portifolio-matheus.vercel.app/) -->
+[Linkedin](https://gitconnected.com/matheusjkl1/resume)
+[Protfolio](https://www.matheus-santana.com/)
 
 ## Aqui está o que eu já aprendi até o momento:
 Sempre uso o Linter e o Code Climate para garantir um Código Limpo;
