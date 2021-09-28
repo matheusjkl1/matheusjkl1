@@ -30,7 +30,7 @@ Tests (com NodeJs Assert, RTL, Jest...);
 
 Git & GitHub.
 
-:page_with_curl: Atualmente estou fazendo um projeto em grupo em Node.js e Typescript.
+:page_with_curl: Atualmente estou fazendo um projeto em grupo com Node.js e Typescript.
 
 <p align="left">
   <a href="https://github.com/matheusjkl1/github-readme-stats">
