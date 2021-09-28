@@ -7,30 +7,30 @@ Caso goste também, entre em contato :arrow_down:
 [Linkedin](https://www.linkedin.com/in/matheusmendes16/)
 <!-- [Protfolio](https://portifolio-matheus.vercel.app/) -->
 
-## Here's what I already know:
-I always use Linter and Code Climate to guarantee a Clean Code;
+## Aqui está o que eu já aprendi até o momento:
+Sempre uso o Linter e o Code Climate para garantir um Código Limpo;
 
-Agile Methodologies (Kanban and Scrum);
+Metodologias ágeis (Kanban e Scrum);
 
-I'm constantly working on my Soft-Skills 🙂;
+Estou constantemente trabalhando em minhas Soft-Skills 🙂;
 
 HTML & CSS;
 
 JavaScript (ES6);
 
-React (Hooks and Context API, and Redux including Thunk middleware for API requisition);
+React (Hooks e Context API, Redux);
 
-Node.js (express and pm2);
+Node.js (express e pm2);
 
-MongoDB and SQL;
+MongoDB & SQL;
 
 Unix & Bash;
 
-Tests (with NodeJs Assert, RTL, Jest...);
+Tests (com NodeJs Assert, RTL, Jest...);
 
 Git & GitHub.
 
-:page_with_curl: I’m currently learning Typescript
+:page_with_curl: Atualmente estou fazendo um projeto pessoal em Node.js e Typescript
 
 <p align="left">
   <a href="https://github.com/matheusjkl1/github-readme-stats">
