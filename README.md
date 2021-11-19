@@ -8,7 +8,7 @@ Caso goste também, entre em contato :arrow_down:
 [Portfolio](https://www.matheus-santana.com/)
 
 ## Aqui está o que eu já aprendi até o momento:
-Sempre uso o Linter e o Code Climate para garantir um Código Limpo;
+Sempre uso o Linter para garantir um Código Limpo;
 
 Metodologias ágeis (Kanban e Scrum);
 
