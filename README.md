@@ -7,7 +7,7 @@ Caso goste também, entre em contato :arrow_down:
 [Linkedin](https://gitconnected.com/matheusjkl1/resume)
 [Portfolio](https://www.matheus-santana.com/)
 
-## Aqui está o que eu já aprendi até o momento:
+## Aqui está o que eu aprendi até o momento:
 Sempre uso o Linter para garantir um Código Limpo;
 
 Metodologias ágeis (Kanban e Scrum);
