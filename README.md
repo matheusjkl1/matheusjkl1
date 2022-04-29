@@ -1,8 +1,5 @@
 ### Hi there! 歓迎します 👋
 
-Gosto muito de Node.js e MongoDB.
-Caso goste também, entre em contato :arrow_down:
-
 [Curriculo](https://gitconnected.com/matheusjkl1)
 [Linkedin](https://gitconnected.com/matheusjkl1/resume)
 [Portfolio](https://www.matheus-santana.com/)
