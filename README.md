@@ -2,7 +2,7 @@
 
 [Curriculo](https://gitconnected.com/matheusjkl1)
 [Linkedin](https://gitconnected.com/matheusjkl1/resume)
-<!--[Portfolio](https://www.matheus-santana.com/)
+<!--[Portfolio](https://www.matheus-santana.com/) -->
 
 ## Aqui está o que eu aprendi até o momento:
 Sempre uso o Linter para garantir um Código Limpo;
